@@ -1,0 +1,22 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Shopping",
+    "List",
+    "Desktop"
+  ],
+  "author": "Will",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^5.0.6"
+  },
+  "devDependencies": {
+    "electron-packager": "^14.0.0"
+  }
+}
